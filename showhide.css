@@ -1,7 +1,10 @@
+/*// background image and resize of the bdz */
+
 table {
     /* Use whatever background image (or images) you like */
-    background: url("forest-background.jpg") no-repeat;
-    table-layout: fixed;
+    background: url("06e558c2ad255600210216b7d272074f.jpg") no-repeat;
+    table-layout: auto;
+    background-size: 1000px 570px;
 }
 
 /* Set each td size */
@@ -9,3 +12,10 @@ td {
     width: 100px;
     height: 100px;
 }
+.targetimage
+{
+    width: 90px;
+
+
+}
+

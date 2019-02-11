@@ -74,8 +74,9 @@ function setUpTargetsAndPlay(numberOfTargets, displayTimeMs) {
         let imgID = "img" + targetNum;
 
         // Set an IMG for each randomly selected cell along with 'click' event handler
-        $('#' + tdID).append("<img id = " + imgID + " class= 'targetImg' src='bird.png'>");
-        $('#' + imgID).delay(2000).show(0); // Wait 2 seconds then show the targets
+        $('#' + tdID).append("<img id = " + imgID + " width='50px'  class= 'targetImg' src='dragon-ball-png-render-dragon-ball-z-goku-png-1000.png'>");
+        // $('#' + imgID).delay(2000).show(0); // Wait 2 seconds then show the targets /// image added to existing code and
+        // width was adjusted inline.
         $('#' + imgID).delay(displayTimeMs).hide(0); // Setup a callback that will hide the images after the specified time
         $('#' + tdID).on("click", clickedTarget);
     }

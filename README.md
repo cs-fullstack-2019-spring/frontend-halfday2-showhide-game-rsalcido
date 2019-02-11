@@ -25,5 +25,7 @@ Some Ideas:
 
 ### I IMPLEMENTED THE FOLLOWING NEW FEATURE(S):
 
+I change the background and added small Goku images to be searched for by the player. 
+I resized both images to fit accordingly.Commented on the code that I added into the existing code that was provided. 
 
 
