@@ -1,3 +1,6 @@
+### POINTS: 2	
+### KEY: Images looked great. Good comments!
+
 # JavaScript Show/Hide Game
 
 Take this simple show/hide game and make it your own.
